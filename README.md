@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ### Comparison with the Latest Methods 
 * **Quantitative analysis on the Kvasir-SEG. Bolded parts represent better performance, and the parts marked with * indicate suboptimal.**
 <div align="center">
-  <img src="./asset/result1.png" height="400" width="400">
+  <img src="./asset/result1.png" height="300" width="400">
 </div>
 <p align="center">
 </p>
